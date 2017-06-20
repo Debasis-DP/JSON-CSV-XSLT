@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <id>1</id>
+    <title>The Hobbit</title>
+    <url>github.com</url>
+  </element>
+  <element>
+    <id>2</id>
+    <title>The pirates</title>
+    <url>google.com</url>
+  </element>
+  <element>
+    <id>3</id>
+    <title>Harry Potter</title>
+    <url>fb.com</url>
+  </element>
+</root>
